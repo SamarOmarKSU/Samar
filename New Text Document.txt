@@ -1,0 +1,127 @@
+you need to talk about your system as an e-government service website and then say that in literature there are several studies evaluating the accessibility and usability of e-government websites. 
+
+In order to improve the effectiveness of e-solutions of a ministry of education and guarantee that all teachers benefit from online services regardless of their situations, the accessibility of Faris system as e-government website has been extensively researched. 
+
+
+
+This section illustrates selected similar usability and accessibility studies to evaluate the user experience on different interactive websites. that will help the ministry of education to improve Faris's service quality and increase user access to the information and services. Thus, some of these studies were presented in this section and categorized based on the evaluation as follows: Using automated tools, combined between automated tools
+
+
+The e-government services websites are one of the most important interactive websites generally simplify government services to all of the citizens in an effective way. However, Some of the citizen users experience disappointment during their web interaction such as visually impaired users. ?While, often a screen reader may not be compatible with the content of the interactive websites. In the literature, there are several studies evaluating the accessibility and usability of e-government websites to improve their quality of services. We found them using different evaluation technique. Serveral studies evaluated the accessibility of the websites by checking their compliance with international standards using automated tool 
+
+
+
+Several accessibility studies evaluated e-Government portals by
+checking their compliance with international standards such as
+WCAG or the legal requirements of Section 508 of the
+Rehabilitation defined by the US Congress. Choudrie
+
+ the studies using different evaluation technique: using automated tools that which assesses compliance with accessibility guidelines such as WAVE, 
+
+  Thus, some of these studies were presented in this section and categorized based on the evaluation technique  as follows: Using automated tools, combined between automated tools
+
+
+Some research has been carried out worldwide with respect
+to the accessibility of websites that offer eGovernment services.
+However, to our knowledge, there is no study that analyzes the
+level of compliance of the WCAG 2.0 of eGovernment services
+in Latin America. Table I presents previous research work
+related to this topic and web accessibility in chronological
+order.
+
+
+ALmost, visual visually impaired users experience disappointment during their Web interaction. Lazar et al. [17] 
+ 
+ALmost, visual visually impaired users experience disappointment during their Web interaction. 
+
+
+streamlining government by providing efficient and effective
+services and information to citizens and business
+through advanced technology
+
+
+-----------------------------------------------------------------
+this introductory paragraph is all about the objective of the study and not for introducing your LR
+
+you need to talk about your system as a e-government service website and then say that in literature there are several studies evaluating the accessibility and usability of e-government websites. 
+
+then explain that you found them using different approaches and explain these approaches.
+
+ after that, you will come to the last paragraph where you explain that you will discuss those studies in three categories 
+
+Some research has been carried out worldwide with respect
+to the accessibility of websites that offer eGovernment services.
+However, to our knowledge, there is no study that analyzes the
+level of compliance of the WCAG 2.0 of eGovernment services
+in Latin America. Table I presents previous research work
+related to this topic and web accessibility in chronological
+order.
+
+
+E-Government term: In general, the
+term “e-government” is defined as “streamlining
+government by providing efficient and effective
+services and information to citizens and business
+through advanced technology” (Blackstone et al.,
+2005). It presents a way for governments to provide
+convenient access to services via Internet and wireless
+communication technology (Siau and Long, 2006).
+As shown in Table 1, there are growing numbers of
+research on e-government studies in various parts of
+
+
+ALmost, visual visually impaired users experience disappointment during their Web interaction. Lazar et al. [17] 
+
+reported five such frustrations:
+confusion caused between the page layout and screen
+reader feedback; conflict between screen reader and
+application; forms that had been poorly designed and/or
+unlabeled; no addition of the alternative text in pictures;
+and problems encountered with ambiguous hyperlinks,
+inaccessible PDF, and screen reader malfunctions.
+W3C guidelines for accessibility predict these frustrations
+and provide guidance to developers to create
+accessible websites by following the Web Content
+Accessibility Guidelines 2.0 (WCAG 2.0). There are few
+professionals that follow these guidelines, but even when
+the guidelines are implemented, people with disabilities
+encounter problems. Some authors affirm that WCAG
+specify a ‘‘technical accessibility as opposed to usable
+accessibility, not ensuring an effective user experience’’
+proposed by [18].
+Specifically, in the work of Power et al. [19], it was
+found that ‘‘50.4% of the problems encountered by users
+were covered by the WCAG 2.0.’’ The study also indicated
+that ‘‘16.7% of websites implemented techniques recommended
+in WCAG 2.0 but the techniques did not solve the
+problems.’’ Thus, the use of the W3C–WCAG guidelines is
+not enough to guarantee accessibility [19]. Furthermore, as
+automatic assessment tools merely check guidelines
+through the HTML tags [20], they also were not an
+effective tool to perform a complete accessibility and
+usability assessment on its own.
+It is considered that all assessment techniques have
+strengths and weaknesses; however, if several combined
+methods for finding accessibility and usability problems
+affecting blind users are used, we can identify a maximum
+set of problems, as described by Mankoff et al. [21].
+Another important aspect that regard ensuring accessibility
+and usability in Web interaction by blind users is the
+appropriate functioning of the screen reader software.
+Screen readers are tools that ‘‘read’’ Web page text aloud
+and are considered a useful technology devised for blind
+users because of its usage in their Web interaction. The
+software can interpret HTML code and read it aloud (with a
+synthesized voice). The interaction can be made by way of
+using a normal keyboard or, alternatively, by using a
+Braille keyboard. There are specific guidelines in the
+W3C–WCAG 2.0 regarding this technology; however, it
+only guarantees ‘‘technical readability’’, i.e., if the screen
+readers function. The guidelines do not identify if a website
+is ‘‘accessible’’ by blind users, i.e., if blind users can
+effectively access it [18].
+With this in mind, we present a complete accessibility
+and usability assessment study of an e-commerce platform,
+using different assessment techniques and methods,
+allowing to identify interaction problems, i.e., design and
+screen reader problems, presented in the next section.
